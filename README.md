@@ -76,7 +76,7 @@ The dashboard provides actionable business insights into customer financial beha
 
 ## Dashboard Preview
 
-![Miltron Dashboard](Miltron-Bank-Dashboard.png)
+![Mitron Dashboard](Mitron-Bank-Dashboard.png)
 
 
 ## Conclusion
